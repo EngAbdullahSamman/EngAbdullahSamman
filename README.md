@@ -30,7 +30,7 @@ I build fast, user-friendly web applications and turn ideas into digital solutio
 ## 📫 Let's Connect
 
 - **Email:** EngAbdullahSamman@gmail.com
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **LinkedIn:** 
 - **Portfolio:** (coming soon)
 
 ---
